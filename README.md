@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying at the Czech Technical University [ČVUT](https://fit.cvut.cz/en)
 
-- 🌱 I’m currently learning **DSA and Web Development**
+- 🌱 I’m currently learning **DSA, Web Development, Python, and a million other stuff ;p**
 
 - 💬 Ask me about **Web3, Web Development, and SPACE 👽**
 
