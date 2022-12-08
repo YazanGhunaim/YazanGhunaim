@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA, Web Development, Python, and a million other stuff ;p**
 
-- 💬 Ask me about **Web3, Web Development, and SPACE 👽**
+- 💬 Ask me about **Web Development,New Technologies,Turing machines and SPACE 👽**
 
 - 📫 How to reach me **yazanghunaim07@gmail.com**
 
