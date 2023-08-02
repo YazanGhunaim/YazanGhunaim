@@ -77,7 +77,10 @@
 
 <div align = "center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yazanghunaim&" alt="yazanghunaim" /></p>
-</div>
+</div> 
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazanGhunaim&hide_border=true&layout=compact" align="center" /></div> 
 
 ## Connect with me  
 <div align="center">
@@ -93,27 +96,4 @@
 </div>  
   
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazanGhunaim&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-
-## Recently Played  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=315wwf7k7jv5qk3mnlevfc4vjmvi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
+<br/> 
