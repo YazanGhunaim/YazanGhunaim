@@ -10,7 +10,7 @@
   
   
 
-- 🌱 I’m currently learning IOS Development, Networking, DSA and a million other things :p  
+- 🌱 I’m currently learning IOS Development, Cross-Platform Development using flutter and a million other things :p  
   
 
 - ❓ Ask me about anything related to Tech, Gaming, Turing Machines, and SPACE 👽  
