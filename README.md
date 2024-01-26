@@ -79,9 +79,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yazanghunaim&" alt="yazanghunaim" /></p>
 </div> 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazanGhunaim&hide_border=true&layout=compact" align="center" /></div> 
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/YazanGhunaim" target="_blank">
