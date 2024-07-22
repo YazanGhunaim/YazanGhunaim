@@ -6,7 +6,7 @@
 ### <div align="center">I'm Yazan, A Passionate Software Engineering Student 👨‍💻 From Jordan 🇯🇴 🚀</div>  
   
 
-- 🏫 I’m currently studying at the Czech Technical University [ČVUT](https://fit.cvut.cz/en)
+- 🏫 I’m currently studying software engineering at the Czech Technical University [ČVUT](https://fit.cvut.cz/en)
   
 - 🧑🏼‍💻 I’m currently working at Barclays.
 
