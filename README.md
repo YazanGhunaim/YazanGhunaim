@@ -13,9 +13,6 @@
 - 🌱 In my freetime i like to do iOS Development :D  
   
 - ❓ Ask me about anything related to iOS, Tech and Software Architecture 🧐
-  
-- ⚡ Fun fact: I know how to quit vim 😎  
-  
 
 <br/>  
 
