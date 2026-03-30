@@ -8,7 +8,7 @@
 
 - BA of Software Engineering from the Czech Technical University [ČVUT](https://fit.cvut.cz/en)
   
-- I’m currently working at Barclays as a Developer in Quantitative Analytics.
+- Working at Barclays as a Developer in Quantitative Analytics.
 
 - Indie iOS Dev.
   
