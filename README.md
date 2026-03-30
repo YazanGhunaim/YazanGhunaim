@@ -3,17 +3,15 @@
 </div>  
   
 
-### <div align="center">I'm Yazan, A Passionate Software Engineering Student 👨‍💻 From Jordan 🇯🇴 🚀</div>  
+### <div align="center">Fullstack Software Engineer | Developer @ Barclays </div>  
   
 
-- 🏫 BA of Software Engineering from the Czech Technical University [ČVUT](https://fit.cvut.cz/en)
+- BA of Software Engineering from the Czech Technical University [ČVUT](https://fit.cvut.cz/en)
   
-- 🧑🏼‍💻 I’m currently working at Barclays.
+- I’m currently working at Barclays as a Developer in Quantitative Analytics.
 
-- 🌱 In my freetime i like to do iOS Development :D  
+- Indie iOS Dev.
   
-- ❓ Ask me about anything related to iOS, Tech and Software Architecture 🧐
-
 <br/>  
 
 
