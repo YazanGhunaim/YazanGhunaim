@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Fullstack Software Engineer | Developer @ Barclays </div>  
+### <div align="center">Fullstack Software Engineer </div>  
   
 
 - BA of Software Engineering from the Czech Technical University [ČVUT](https://fit.cvut.cz/en)
